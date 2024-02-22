@@ -1,4 +1,4 @@
-### Hi there, i'm a CS student from Italy
+### Hi there, I'm a CS student from Italy
 
 - 🔭 I’m currently working on building microservices and Telegram bots in Golang
 - 🌱 My main interests are Back-end development, Machine Learning and Computer Grahics
